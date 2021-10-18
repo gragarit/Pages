@@ -10,6 +10,7 @@
 body
 {
     font-family: 'Nunito', sans-serif;
+    background: #151515;
 }
 
 .container
@@ -198,6 +199,7 @@ section .container > *
 .content
 {
     color: white;
+    transform: translateY(-50px);
 }
 
 .title
